@@ -1,1 +1,1 @@
-# LearningDotNet
+*** Initial project
